@@ -7,7 +7,7 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 
 ### The challenge
@@ -26,8 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/omarnate1/contact-form
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: https://omarnate1.github.io/contact-form/
 ## My process
 
 ### Built with
